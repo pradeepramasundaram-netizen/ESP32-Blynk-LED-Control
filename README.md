@@ -16,6 +16,9 @@ This project controls an LED using an ESP32 and the Blynk IoT platform.
 - Arduino Framework
 
 ## Features
+## Circuit Diagram
+
+![ESP32 Circuit](ESP32_circuit.png)
 
 - Wi-Fi based LED control
 - Mobile control using Blynk
